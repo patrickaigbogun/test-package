@@ -1,0 +1,23 @@
+{
+  "name": "@patrick-aigbogun/hello-user",
+  "version": "1.0.0",
+  "description": "a package that returns a simple hello user text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickaigbogun/test-package.git"
+  },
+  "author": "Oti. , Patrick Aigbogun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickaigbogun/test-package/issues"
+  },
+  "homepage": "https://github.com/patrickaigbogun/test-package#readme",
+  "keywords": [
+    "hello",
+    "world"
+  ]
+}
